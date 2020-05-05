@@ -1,0 +1,13 @@
+1.  git clone <repo url> -b <dev>
+1.1 git branch 
+2.  git status
+3.  ------
+4.  git status // what is the change 
+5.  git add . or git add --all
+6.  git commit -m "your comment"
+7.  git push // optionally origin master 
+
+
+----------------
+git fetch upstream 
+merge your dev to master

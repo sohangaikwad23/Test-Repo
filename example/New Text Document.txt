@@ -1,0 +1,19 @@
+  158  kubectl apply -f example
+  159  kubectl get svc
+  160  history
+  161  minikube service frontend
+  162  kubectl get pod
+  163  kubectl logs frontend-5c7ffd45cf-4wdbr
+  164  kubectl logs frontend-5c7ffd45cf-5l8ml
+  165  kibectl logs -l frontend
+  166  kubectl logs -l frontend
+  167  kubectl logs -L frontend
+  168  kubectl get pods
+  169  kubectl logs -l app: Guestbook
+  170  kubectl logs -l app: guestbook
+  171  kubectl logs -l app= guestbook
+  172  kubectl logs app= guestbook
+  173  kubectl logs -l name=frontend
+  174  kubectl logs -l app=guestbook
+  175  tail
+  176  history
